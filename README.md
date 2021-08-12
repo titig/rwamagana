@@ -1,0 +1,2 @@
+# rwamagana
+linux training
